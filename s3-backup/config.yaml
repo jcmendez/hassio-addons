@@ -34,4 +34,4 @@ schema:
   local_backups_to_keep: int
 map:
 - backup:rw
-image: "ghcr.io/home-assistant/{arch}-addon-s3-backup"
+image: "ghcr.io/jcmendez/{arch}-addon-s3-backup"
